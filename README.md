@@ -1,6 +1,14 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Add Task:
+Users can input a task into a text field.
+They can add it to the list by either pressing a button .
+View Tasks:
+All added tasks are displayed in a list format.
+Delete Task:
+Each task has a delete button.
+When clicked, the corresponding task is removed from the list.
+
 
 
 ![photo_6116381730333113646_w](https://github.com/26ankitaa/todo_app/assets/122377058/4b361e1d-a1f6-415e-a2b6-13c0bb60e069)
