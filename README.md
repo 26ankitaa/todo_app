@@ -1,12 +1,12 @@
 # React + Vite
 
-Add Task:
-Users can input a task into a text field.
-They can add it to the list by either pressing a button .
-View Tasks:
-All added tasks are displayed in a list format.
-Delete Task:
-Each task has a delete button.
+Add Task:</br>
+Users can input a task into a text field.</br>
+They can add it to the list by either pressing a button .</br>
+View Tasks:</br>
+All added tasks are displayed in a list format.</br>
+Delete Task:</br>
+Each task has a delete button.</br>
 When clicked, the corresponding task is removed from the list.
 
 
