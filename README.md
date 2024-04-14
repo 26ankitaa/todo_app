@@ -7,11 +7,11 @@ View Tasks:</br>
 All added tasks are displayed in a list format.</br>
 Delete Task:</br>
 Each task has a delete button.</br>
-When clicked, the corresponding task is removed from the list.</br>
+When clicked, the corresponding task is removed from the list.</br></br></br></br>
 
 
 
-![photo_6116381730333113646_w](https://github.com/26ankitaa/todo_app/assets/122377058/4b361e1d-a1f6-415e-a2b6-13c0bb60e069)</br>
+![photo_6116381730333113646_w](https://github.com/26ankitaa/todo_app/assets/122377058/4b361e1d-a1f6-415e-a2b6-13c0bb60e069)</br></br></br></br>
 ![photo_6116381730333113647_w](https://github.com/26ankitaa/todo_app/assets/122377058/b4db65e1-e4b3-4223-b31c-f33ddb221fec)</br>
 
 
